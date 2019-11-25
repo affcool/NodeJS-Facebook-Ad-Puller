@@ -1,0 +1,14 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SAMPLE_CODE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-nodejs-business-sdk": "^5.0.2"
+  }
+}
